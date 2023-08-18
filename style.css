@@ -1,0 +1,25 @@
+html{
+	background: url("background.jpg") no-repeat center center fixed;
+	background-size:cover;
+
+
+}
+ body{
+ 	background:none;
+ }
+ .container{
+ 	text-align: center;
+ 	margin-top: 300px;
+ 	width: 450px;
+ }
+ input{
+ 	margin: 20px;
+ }
+ #weather{
+ 	margin-top:15px;
+ }
+
+ .label{
+ 	
+ 	font-size: 2.5rem;
+ }
